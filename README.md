@@ -8,3 +8,6 @@ PowerShell Studio 2012 was used to draw up the GUI and is required to edit/compi
 More detailed info about the tool can be found on the wiki. (button is on the right --->)
 
 Branch out to participate!
+
+
+![](https://github.com/nullzeroio/Omega/raw/master/img/ui.png)
